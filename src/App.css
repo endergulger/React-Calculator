@@ -1,0 +1,99 @@
+.result {
+  height: 40px;
+  background-color: transparent;
+  width: 320px;
+  text-align: right;
+}
+
+.result p {
+  font-size: 50px;
+  margin: 5px;
+  margin-right: 30px;
+}
+
+.hesapmakinesi {
+  width: 320px;
+  height: 485px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 60px;
+  background: rgb(248, 212, 133);
+}
+
+.sayilar {
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-top: 130px;
+}
+
+#sayilar1 {
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#sayilar2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#sayilar3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#sayilar4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#sayilar5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.ortak {
+  height: 55px;
+  width: 55px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 30px;
+}
+
+.farklı {
+  height: 55px;
+  width: 125px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 30px;
+  background-color: transparent;
+}
+
+.gri {
+  background-color: #dddddd;
+  font-size: large;
+}
+
+.gri2 {
+  background-color: #696969;
+  color: white;
+  font-size: large;
+}
+
+.turuncu {
+  background-color: orange;
+  font-size: large;
+  color: white;
+}
+
+#box {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -50px;
+}
